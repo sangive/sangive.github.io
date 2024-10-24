@@ -8,7 +8,7 @@
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "displayTitle":"Meekdai",
     "showPostSource":1,
-    "indexStyle":"bug"
+    "indexScript":"bug"
 
 
 }
