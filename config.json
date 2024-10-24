@@ -3,7 +3,7 @@
     "subTitle":"好",
     "avatarUrl":"https://pic2.ziyuan.wang/user/zqj193/2024/10/1000129491_356dfaf540eb8.jpg",
     "GMEEK_VERSION":"last",
-    "startSite":"02/16/2015",
+    "startSite":"10/24/2024",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "displayTitle":"Meekdai",
@@ -11,6 +11,6 @@
     "indexScript":"bug",
     "singlePage":["about"],
     "exlink":{"music":"https://music.meekdai.com"},
-    "iconList":{"music":{% octicon bell height:16 %}
+    "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"}
 
 }
