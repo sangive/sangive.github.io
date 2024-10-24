@@ -6,7 +6,8 @@
     "startSite":"02/16/2015",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "displayTitle":"Meekdai"
+    "displayTitle":"Meekdai",
+    "singlePage":["about"],
 
 
 }
