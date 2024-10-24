@@ -11,8 +11,7 @@
     "indexScript":"bug",
     "singlePage":["about"],
     "exlink":{"music":"https://music.meekdai.com"},
-    "iconList":<%= render(Primer::Beta::Octicon.new(:bell, size: :small)) %>
-    
+    "iconList":{% octicon bell height:16 %}
 
 
 }
