@@ -11,7 +11,6 @@
     "indexScript":"bug",
     "singlePage":["about"],
     "exlink":{"music":"https://music.meekdai.com"},
-    "iconList":{% octicon bell height:16 %}
-
+    "iconList":{"music":{% octicon bell height:16 %}
 
 }
