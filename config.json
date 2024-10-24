@@ -10,7 +10,8 @@
     "showPostSource":1,
     "indexScript":"bug",
     "singlePage":["about"],
-    "exlink":{"music":"https://music.meekdai.com"}
+    "exlink":{"music":"https://music.meekdai.com"},
+    "iconList":<BellIcon size={16} />
     
 
 
