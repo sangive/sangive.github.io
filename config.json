@@ -1,14 +1,14 @@
 {
     "title":"sangive",
-    "subTitle":"",
+    "subTitle":"好",
     "avatarUrl":"https://pic2.ziyuan.wang/user/zqj193/2024/10/1000129491_356dfaf540eb8.jpg",
     "GMEEK_VERSION":"last",
     "startSite":"02/16/2015",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "displayTitle":"Meekdai",
-    "showPostSource":1
-    
+    "showPostSource":1,
+    "indexStyle":"bug"
 
 
 }
