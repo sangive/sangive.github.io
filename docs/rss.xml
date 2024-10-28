@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>sangive</title><link>https://sangive.github.io</link><description>分享资源</description><copyright>sangive</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.ziyuan.wang/user/zqj193/2024/10/1000129491_356dfaf540eb8.jpg</url><title>avatar</title><link>https://sangive.github.io</link></image><lastBuildDate>Sat, 26 Oct 2024 14:39:36 +0000</lastBuildDate><managingEditor>sangive</managingEditor><ttl>60</ttl><webMaster>sangive</webMaster><item><title>夸克＆迅雷安卓不限速下载教程</title><link>https://sangive.github.io/post/kua-ke-%EF%BC%86-xun-lei-an-zhuo-bu-xian-su-xia-zai-jiao-cheng.html</link><description>夸克、迅雷亲测不限速&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>sangive</title><link>https://sangive.github.io</link><description>分享资源</description><copyright>sangive</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.ziyuan.wang/user/zqj193/2024/10/1000129491_356dfaf540eb8.jpg</url><title>avatar</title><link>https://sangive.github.io</link></image><lastBuildDate>Mon, 28 Oct 2024 16:15:57 +0000</lastBuildDate><managingEditor>sangive</managingEditor><ttl>60</ttl><webMaster>sangive</webMaster><item><title>夸克＆迅雷安卓不限速下载教程</title><link>https://sangive.github.io/post/kua-ke-%EF%BC%86-xun-lei-an-zhuo-bu-xian-su-xia-zai-jiao-cheng.html</link><description>夸克、迅雷亲测不限速&#13;
 首先你需要一个支持插件或脚本的浏览器&#13;
 (这里我用雨见来演示，基本上都差不多 )&#13;
 &#13;
@@ -37,7 +37,7 @@ AList 提供了网页版界面能让你集中管理各大网盘的文件，支�
 &#13;
 2011年左右 3G时代-图片时代&#13;
 &#13;
-我当时用的套餐就是联通3g新势力流量王300m流量后来升级到1g流量，当年用的诺基亚手机屏幕比较小，也没有那么多的功能，上网的话看的图片都不是高清的 一般来说只要不看视频，拿来聊qq，看看空间、微博、浏览网页无图模式，用一个月是足够得了。</description><guid isPermaLink="true">https://sangive.github.io/post/na-xie-nian-%EF%BC%8C-wo-lu-guo-de-qia.html</guid><pubDate>Fri, 25 Oct 2024 08:58:22 +0000</pubDate></item><item><title>测试内嵌.</title><link>https://sangive.github.io/post/ce-shi-nei-qian-..html</link><description>`Gmeek-html&lt;img src='https://picsum.photos/200'&gt;`&#13;
+我当时用的套餐就是联通3g新势力流量王300m流量后来升级到1g流量，当年用的诺基亚手机屏幕比较小，也没有那么多的功能，上网的话看的图片都不是高清的 一般来说只要不看视频，拿来聊qq，看看空间、微博、浏览网页无图模式，用一个月是足够得了。</description><guid isPermaLink="true">https://sangive.github.io/post/na-xie-nian-%EF%BC%8C-wo-lu-guo-de-qia.html</guid><pubDate>Fri, 25 Oct 2024 08:58:22 +0000</pubDate></item><item><title>测试内嵌</title><link>https://sangive.github.io/post/ce-shi-nei-qian.html</link><description>`Gmeek-html&lt;img src='https://picsum.photos/200'&gt;`&#13;
 `Gmeek-html&lt;iframe src='https://music.meekdai.com/#61' width='100%' height='460px' frameborder='0' allowfullscreen='true'&gt;&lt;/iframe&gt;`&#13;
 `Gmeek-html&lt;iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/0U3fV7K4WFfVRgLGEAKh3g?utm_source=generator' width='100%' height='152' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'&gt;&lt;/iframe&gt;`&#13;
 `Gmeek-html&lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=1604800941&amp;bvid=BV1qm421M7Xs&amp;cid=1557311907&amp;p=1&amp;autoplay=0' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true' width='100%' height='460px'&gt;&lt;/iframe&gt;`&#13;
@@ -50,7 +50,9 @@ AList 提供了网页版界面能让你集中管理各大网盘的文件，支�
 txt支持 mp3不支持&#13;
 缺点就是数据没有保存在本地&#13;
 &#13;
-。</description><guid isPermaLink="true">https://sangive.github.io/post/ce-shi-nei-qian-..html</guid><pubDate>Fri, 25 Oct 2024 06:35:43 +0000</pubDate></item><item><title>博客多标题测试</title><link>https://sangive.github.io/post/bo-ke-duo-biao-ti-ce-shi.html</link><description># 一级标题&#13;
+上传图片到static文件夹当图床用&#13;
+&#13;
+。</description><guid isPermaLink="true">https://sangive.github.io/post/ce-shi-nei-qian.html</guid><pubDate>Fri, 25 Oct 2024 06:35:43 +0000</pubDate></item><item><title>博客多标题测试</title><link>https://sangive.github.io/post/bo-ke-duo-biao-ti-ce-shi.html</link><description># 一级标题&#13;
 ## 二级标题&#13;
 ### 三级标题&#13;
 `var test ='123'′&#13;
